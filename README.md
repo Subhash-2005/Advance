@@ -47,7 +47,7 @@ This project is licensed under the *MIT License*.
 ## Contact
 For any queries or discussions, feel free to reach out:
 - *Email:* muralijay360@gmail.com
-- *GitHub:* [your-username](https://github.com/murali127)
+- *GitHub:* [your-username](https://github.com/Subhash-2005)
 
 ---
 Happy Coding! 🚀
